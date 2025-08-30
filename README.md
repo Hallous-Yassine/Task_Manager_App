@@ -24,7 +24,7 @@ A task management app with a user-friendly interface and a powerful backend. It 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/Task_Manager_App.git
+git clone https://github.com/Hallous-Yassine/Task_Manager_App.git
 ```
 ## Server-Side Setup
 
